@@ -14,5 +14,12 @@ https://gun.eco/ mentions HAM CRDT
 
 A bit of controversery https://blog.kevinjahns.de/are-crdts-suitable-for-shared-editing/
 
+*********
+
+## 2023-01-13 notes
+1. https://automerge.org/docs/tutorial/introduction/ is pointed at by https://jzhao.xyz/posts/bft-json-crdt/ (Byzantine Fault Tolerant)
+   1. https://github.com/automerge/hypermerge
+   1. Demo: https://github.com/automerge/pushpin
+
 
 
