@@ -37,3 +37,4 @@ Docker compose is my friend
 
 # 15 minutes: Designing documents for CRDTs
 How to design the data managed by your application to work well with CRDTs?
+
