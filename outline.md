@@ -8,11 +8,15 @@ Show at least one hand-built opensource demo
 
 ## WebRTC vs. WebSockets
 Talk about pros & cons of each
+### Stetch goals
+1. Long polling (COMET)
 
 ## Offline first
 Show at least one off-the-shelf (or better yet, hand-built) opensource demo
 Cite other implementations:
 Automerge.org etc
+Show off automerge emailing -- network agnowstic stuff
+  Or use unidirectional messaging: send an Automerge file as an email attachment or store it on a file server.
 
 # 15 minutes: A peek behind the curtain - how it works
 Remember that real computer science research is quite deep, and this is just an introduction.
