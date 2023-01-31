@@ -35,3 +35,7 @@ Conflict free replicated data types let you write applications that:
 ## Criticism of CRDTs
 1. https://blog.kevinjahns.de/are-crdts-suitable-for-shared-editing/
 
+
+## Java Demo of AntidoteDB
+https://github.com/AntidoteDB/antidote-java-tutorial
+
